@@ -1,1 +1,3 @@
-## Écrivez votre code ici !
+## Écrivez votre code!
+print("j'apprends python!")
+print(17 + 35 * 2)
